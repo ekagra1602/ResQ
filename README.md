@@ -99,46 +99,5 @@ Firebase / AWS account
 
 Google Maps API Key
 
-
-Installation
-
-Clone the Repository
-
-bash
-
-git clone https://github.com/your-repo-url.git
-
-cd RescueConnect
-
-Install Dependencies
-
-
-bash
-
-npm install  # For frontend
-
-pip install -r requirements.txt  # For backend
-
-Setup Environment Variables Create a .env file and add:
-
-
-bash
-
-
-GOOGLE_MAPS_API_KEY=your_api_key
-
-DATABASE_URL=your_database_url
-
-JWT_SECRET=your_secret_key
-
-Run the Application
-
-bash
-
-
-npm start  # For frontend
-python app.py  # For backend
-Access the App Open http://localhost:3000 in your browser.
-
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.

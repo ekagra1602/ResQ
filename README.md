@@ -59,19 +59,18 @@ Free access for the general public to maximize usability and impact.
 
 🏗 Technology Stack
 
-Frontend: React.js / Flutter (for web & mobile)
+Frontend: React.js / Flutter
 
-Backend: Node.js / Python (Django or Flask)
+Backend: Node.js / Java
 
-Database: PostgreSQL / Firebase / MongoDB
+Database: MongoDB
 
 Real-time Services: WebSockets / Firebase Cloud Messaging
 
-Maps & Geolocation: Google Maps API / OpenStreetMap
+Maps & Geolocation: Google Maps API
 
-Security: OAuth 2.0 / JWT Authentication / Encryption Algorithms
+Security: OAuth 2.0
 
-Cloud Hosting: AWS / Google Cloud / Firebase Hosting
 
 🚧 Dependencies & Challenges
 
@@ -85,19 +84,6 @@ Multilingual Support: Making the application accessible globally.
 
 Accessibility Features: Text-to-speech, high contrast mode for users with special needs.
 
-
-
-🚀 Getting Started
-
-Prerequisites
-
-Node.js & npm installed
-
-Python & pip installed
-
-Firebase / AWS account
-
-Google Maps API Key
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
